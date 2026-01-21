@@ -44,7 +44,7 @@ Recruiters can register companies, post jobs, and manage applications, while Job
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/FarhanaGhayas/DreamJob.git
+   git clone https://github.com/FarhanaGhayas/DreamJob_2015.git
 
 2. Open the project in Visual Studio
 3. Update the database connection string
